@@ -1,3 +1,20 @@
+The client needs to develop a console-based calculator in Java where the end-user can run it form the command line as : 
+ java mySofware  op A B
+
+ op is the operator and can be either : +,- , / , *
+ A and B are two real numbers.
+
+Example to run the software : 
+ java mySoftware + 2 5
+
+
+It will print to the console : 7
+
+We need to strictly use OOP principles where we can create an abstract class called : Calculator with one abstract method called double compute(double A, double B). 
+(The method from its signature, it computes and returns, it does not print).
+
+Each type of operator needs to have its own class inheriting and implementing the method compute.
+
 As a team in collaboration with the team leader:
 Setup the Asana board for this project and use the Kanban view where you can set the task phases (idea,todo,in progress, to review, done)
 
