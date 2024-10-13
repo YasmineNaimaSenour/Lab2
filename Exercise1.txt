@@ -1,0 +1,36 @@
+As a team in collaboration with the team leader:
+Setup the Asana board for this project and use the Kanban view where you can set the task phases (idea,todo,in progress, to review, done)
+
+
+Create the list of all tasks on Asana ( Programming, Testing, Packaging,Integration, System Administration....)
+
+
+Team leader needs to set up the Git Repository and invite other members of the team.
+
+
+Assign different programming tasks for team members where each member can create a separate class.
+
+
+All team members would inspect the code (To look for errors, badly written code, non-readable business logic…)
+
+
+Set the policy for communicating, reviewing and merging the pull requests
+
+
+Learn how to use the git ignore file to skip tracking certain files ( Example .class files).
+
+
+Package your software as a Jar File and deliver to another team where they can run the software.
+
+Evaluation of the Exercise : 
+All members are contributing fairly.
+Project is delivered to another team and runs smoothly.
+
+Extra : 
+Does it handle errors when the users accidentally type incorrect format ? the user should be shown a message to input data in the required format instead of showing a technical exception message.
+
+
+Does it handle division by zero ?
+
+
+Does it handle negative numbers ?
